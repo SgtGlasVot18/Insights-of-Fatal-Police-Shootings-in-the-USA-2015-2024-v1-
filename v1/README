@@ -1,0 +1,1 @@
+An insights of "Fatal Police Shootings" in the USA from the period of 2015-2024, depicts in the graphical form in Power BI. As it's also being compared with the other factors of: "States Population", "Races Population Distribution" and "Racial Hate Crimes Report". Indicated by: "States" and "Races".
